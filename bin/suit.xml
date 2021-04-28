@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Suite" parallel="classes" thread-count="2">
+  <test name="Test">
+    <classes>
+      <class name="testcases.DriverScript"/>
+      <class name="testcases.DriverScript_ff"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

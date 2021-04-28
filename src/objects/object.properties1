@@ -1,0 +1,6 @@
+url=http://demo.guru99.com/v4/
+username=uid
+password=password
+title=Guru99 Bank Home Page 
+loginButton=btnLogin
+resetButton=btnReset
